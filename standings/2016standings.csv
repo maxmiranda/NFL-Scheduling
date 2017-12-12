@@ -1,0 +1,33 @@
+id,name,market,alias,wins,losses,ties,points_for,points_against,points_rank,touchdown_diff,conf_h2h,rank_conference,rank_division,streak_type,streak_length,streak_desc,strength_of_schedule_wins,strength_of_schedule_total,strength_of_victory_wins,strength_of_victory_total,division,conference
+97354895-8c77-4fd4-a860-32e62ea7382a,Patriots,"New England",NE,14,2,0,441,250,4,24,0,1,1,win,7,"Won 7",113,256,95,224,"AFC East",AFC
+4809ecb0-abd3-451d-9c4a-92a90b83ca06,Dolphins,Miami,MIA,10,6,0,363,380,35,2,0,6,2,loss,1,"Lost 1",117,256,55,160,"AFC East",AFC
+768c92aa-75ff-4a43-bcc0-f2798c2e1724,Bills,Buffalo,BUF,7,9,0,399,378,26,8,0,11,3,loss,2,"Lost 2",124,256,38,112,"AFC East",AFC
+5fee86ae-74ab-4bdd-8416-42a9dd9964f3,Jets,"New York",NYJ,5,11,0,275,409,58,-19,0,13,4,win,1,"Won 1",133,256,25,80,"AFC East",AFC
+cb2f9f1f-ac67-424e-9e72-1475cb0ed398,Steelers,Pittsburgh,PIT,11,5,0,399,327,20,11,0,3,1,win,7,"Won 7",127,256,75,176,"AFC North",AFC
+ebd87119-b331-4469-9ea6-d51fe3ce2f1c,Ravens,Baltimore,BAL,8,8,0,343,321,30,-7,0,9,2,loss,2,"Lost 2",128,256,47,128,"AFC North",AFC
+ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,Bengals,Cincinnati,CIN,6,9,1,325,315,32,1,0,12,3,win,1,"Won 1",134,256,32,96,"AFC North",AFC
+d5a2eb42-8065-4174-ab79-0a6fa820e35e,Browns,Cleveland,CLE,1,15,0,264,452,61,-27,0,16,4,loss,1,"Lost 1",141,256,5,16,"AFC North",AFC
+82d2d380-3834-4938-835f-aec541e5ece7,Texans,Houston,HOU,9,7,0,279,328,39,-11,0,4,1,loss,1,"Lost 1",129,256,62,144,"AFC South",AFC
+d26a1ca5-722d-4274-8f97-c92e49c96315,Titans,Tennessee,TEN,9,7,0,381,378,30,3,1,7,2,win,1,"Won 1",119,256,66,144,"AFC South",AFC
+82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,Colts,Indianapolis,IND,8,8,0,411,392,30,5,0,10,3,win,1,"Won 1",126,256,52,128,"AFC South",AFC
+f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jaguars,Jacksonville,JAC,3,13,0,318,400,50,-7,0,15,4,loss,1,"Lost 1",135,256,20,48,"AFC South",AFC
+6680d28d-d4d2-49f6-aace-5292d3ec02c2,Chiefs,"Kansas City",KC,12,4,0,389,311,20,8,0,2,1,win,2,"Won 2",130,256,92,192,"AFC West",AFC
+1c1cec48-6352-4556-b789-35304c1a6ae1,Raiders,Oakland,OAK,12,4,0,416,385,27,1,0,5,2,loss,1,"Lost 1",129,256,85,192,"AFC West",AFC
+ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Broncos,Denver,DEN,9,7,0,333,297,26,5,-1,8,3,win,1,"Won 1",141,256,66,144,"AFC West",AFC
+9dbb9060-ba0f-4920-829e-16d4d9246b5d,Chargers,"San Diego",SD,5,11,0,410,423,38,2,0,14,4,loss,5,"Lost 5",139,256,41,80,"AFC West",AFC
+e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,Cowboys,Dallas,DAL,13,3,0,421,306,10,15,0,1,1,loss,1,"Lost 1",121,256,92,208,"NFC East",NFC
+04aa1c9d-66da-489d-b16a-1dee3f2eec4d,Giants,"New York",NYG,11,5,0,310,284,28,10,0,5,2,win,1,"Won 1",125,256,80,176,"NFC East",NFC
+22052ff7-c065-42ee-bc8f-c4691c50e624,Redskins,Washington,WAS,8,7,1,396,383,31,-2,0,8,3,loss,1,"Lost 1",132,256,55,128,"NFC East",NFC
+386bdbf9-9eea-4869-bb9a-274b0bc66e80,Eagles,Philadelphia,PHI,7,9,0,367,331,28,1,0,12,4,win,2,"Won 2",143,256,58,112,"NFC East",NFC
+a20471b4-a8d9-40c7-95ad-90cc30e46932,Packers,"Green Bay",GB,10,6,0,432,388,25,6,0,4,1,win,6,"Won 6",130,256,73,160,"NFC North",NFC
+c5a59daa-53a7-4de0-851f-fb12be893e9e,Lions,Detroit,DET,9,7,0,346,358,33,-6,0,6,2,loss,3,"Lost 3",122,256,57,144,"NFC North",NFC
+33405046-04ee-4058-a950-d606f8c30852,Vikings,Minnesota,MIN,8,8,0,327,307,29,4,0,9,3,win,1,"Won 1",126,256,59,128,"NFC North",NFC
+7b112545-38e6-483c-a55c-96cf6ee49cb8,Bears,Chicago,CHI,3,13,0,279,399,52,-11,0,15,4,loss,4,"Lost 4",134,256,19,48,"NFC North",NFC
+e6aa13a4-0055-48a9-bc41-be28dc106929,Falcons,Atlanta,ATL,11,5,0,540,406,28,15,0,2,1,win,4,"Won 4",123,256,80,176,"NFC South",NFC
+4254d319-1bc7-4f81-b4ab-b5e6f3402b69,Buccaneers,"Tampa Bay",TB,9,7,0,354,369,33,0,0,7,2,win,1,"Won 1",126,256,63,144,"NFC South",NFC
+0d855753-ea21-4953-89f9-0e20aff9eb73,Saints,"New Orleans",NO,7,9,0,469,454,33,4,0,11,3,loss,1,"Lost 1",134,256,44,112,"NFC South",NFC
+f14bf5cc-9a82-4a38-bc15-d39f75ed5314,Panthers,Carolina,CAR,6,10,0,369,402,41,-3,0,13,4,loss,2,"Lost 2",133,256,34,96,"NFC South",NFC
+3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,Seahawks,Seattle,SEA,10,5,1,354,292,21,4,0,3,1,win,1,"Won 1",113,256,68,160,"NFC West",NFC
+de760528-1dc0-416a-a978-b510d20692ff,Cardinals,Arizona,ARI,7,8,1,418,362,20,10,0,10,2,win,2,"Won 2",119,256,41,112,"NFC West",NFC
+2eff2a03-54d4-46ba-890e-2bc3925548f3,Rams,"Los Angeles",LA,4,12,0,224,394,55,-26,0,14,3,loss,7,"Lost 7",129,256,32,64,"NFC West",NFC
+f0e724b0-4cbf-495a-be47-013907608da9,49ers,"San Francisco",SF,2,14,0,309,480,59,-20,0,16,4,loss,1,"Lost 1",129,256,8,32,"NFC West",NFC

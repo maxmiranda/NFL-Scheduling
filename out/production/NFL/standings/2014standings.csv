@@ -1,0 +1,33 @@
+id,name,market,alias,wins,losses,ties,points_for,points_against,points_rank,touchdown_diff,conf_h2h,rank_conference,rank_division,streak_type,streak_length,streak_desc,strength_of_schedule_wins,strength_of_schedule_total,strength_of_victory_wins,strength_of_victory_total
+97354895-8c77-4fd4-a860-32e62ea7382a,Patriots,New England,NE,12,4,0,468,313,12,20,1,1,1,loss,1,Lost 1,132,256,94,192
+768c92aa-75ff-4a43-bcc0-f2798c2e1724,Bills,Buffalo,BUF,9,7,0,343,289,22,6,-2,9,2,win,1,Won 1,132,256,70,144
+4809ecb0-abd3-451d-9c4a-92a90b83ca06,Dolphins,Miami,MIA,8,8,0,388,373,31,0,0,11,3,loss,1,Lost 1,131,256,52,128
+5fee86ae-74ab-4bdd-8416-42a9dd9964f3,Jets,New York,NYJ,4,12,0,283,401,52,-19,0,13,4,win,1,Won 1,139,256,24,64
+cb2f9f1f-ac67-424e-9e72-1475cb0ed398,Steelers,Pittsburgh,PIT,11,5,0,436,368,25,9,1,3,1,win,6,Won 6,116,256,86,176
+ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,Bengals,Cincinnati,CIN,10,5,1,365,344,27,2,0,5,2,loss,1,Lost 1,128,256,68,160
+ebd87119-b331-4469-9ea6-d51fe3ce2f1c,Ravens,Baltimore,BAL,10,6,0,409,302,14,16,0,6,3,win,1,Won 1,122,256,61,160
+d5a2eb42-8065-4174-ab79-0a6fa820e35e,Browns,Cleveland,CLE,7,9,0,299,337,36,-4,0,12,4,loss,5,Lost 5,123,256,42,112
+82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,Colts,Indianapolis,IND,11,5,0,458,369,25,7,-1,4,1,win,1,Won 1,123,256,66,176
+82d2d380-3834-4938-835f-aec541e5ece7,Texans,Houston,HOU,9,7,0,372,307,21,4,0,7,2,win,2,Won 2,115,256,43,144
+f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jaguars,Jacksonville,JAX,3,13,0,249,412,58,-18,0,14,3,loss,1,Lost 1,132,256,15,48
+d26a1ca5-722d-4274-8f97-c92e49c96315,Titans,Tennessee,TEN,2,14,0,254,438,59,-20,0,16,4,loss,10,Lost 10,130,256,12,32
+ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Broncos,Denver,DEN,12,4,0,482,354,18,17,-1,2,1,win,1,Won 1,134,256,93,192
+6680d28d-d4d2-49f6-aace-5292d3ec02c2,Chiefs,Kansas City,KC,9,7,0,353,281,18,14,0,8,2,win,1,Won 1,131,256,72,144
+9dbb9060-ba0f-4920-829e-16d4d9246b5d,Chargers,Los Angeles,LAC,9,7,0,348,348,30,2,0,10,3,loss,1,Lost 1,131,256,58,144
+1c1cec48-6352-4556-b789-35304c1a6ae1,Raiders,Oakland,OAK,3,13,0,253,452,63,-23,0,15,4,loss,1,Lost 1,146,256,26,48
+e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,Cowboys,Dallas,DAL,12,4,0,467,352,20,13,0,3,1,win,4,Won 4,114,256,81,192
+386bdbf9-9eea-4869-bb9a-274b0bc66e80,Eagles,Philadelphia,PHI,10,6,0,474,400,25,6,0,7,2,win,1,Won 1,126,256,67,160
+04aa1c9d-66da-489d-b16a-1dee3f2eec4d,Giants,New York,NYG,6,10,0,380,400,35,-1,2,11,3,loss,1,Lost 1,131,256,31,96
+22052ff7-c065-42ee-bc8f-c4691c50e624,Redskins,Washington,WAS,4,12,0,301,438,55,-20,0,15,4,loss,1,Lost 1,127,256,27,64
+a20471b4-a8d9-40c7-95ad-90cc30e46932,Packers,Green Bay,GB,12,4,0,486,348,14,18,0,2,1,win,2,Won 2,124,256,85,192
+c5a59daa-53a7-4de0-851f-fb12be893e9e,Lions,Detroit,DET,11,5,0,321,282,25,3,-1,6,2,loss,1,Lost 1,121,256,69,176
+33405046-04ee-4058-a950-d606f8c30852,Vikings,Minnesota,MIN,7,9,0,325,343,31,-3,-1,10,3,win,1,Won 1,122,256,35,112
+7b112545-38e6-483c-a55c-96cf6ee49cb8,Bears,Chicago,CHI,5,11,0,319,442,54,-9,0,14,4,loss,5,Lost 5,136,256,27,80
+f14bf5cc-9a82-4a38-bc15-d39f75ed5314,Panthers,Carolina,CAR,7,8,1,339,374,40,-8,0,4,1,win,4,Won 4,126,256,40,112
+0d855753-ea21-4953-89f9-0e20aff9eb73,Saints,New Orleans,NO,7,9,0,401,424,37,2,1,9,2,win,1,Won 1,125,256,47,112
+e6aa13a4-0055-48a9-bc41-be28dc106929,Falcons,Atlanta,ATL,6,10,0,381,417,39,-4,0,12,3,loss,1,Lost 1,124,256,37,96
+4254d319-1bc7-4f81-b4ab-b5e6f3402b69,Buccaneers,Tampa Bay,TB,2,14,0,277,410,54,-15,0,16,4,loss,6,Lost 6,125,256,15,32
+3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,Seahawks,Seattle,SEA,12,4,0,394,254,11,16,0,1,1,win,6,Won 6,135,256,99,192
+de760528-1dc0-416a-a978-b510d20692ff,Cardinals,Arizona,ARI,11,5,0,310,299,29,0,1,5,2,loss,2,Lost 2,134,256,84,176
+f0e724b0-4cbf-495a-be47-013907608da9,49ers,San Francisco,SF,8,8,0,306,340,35,-7,0,8,3,win,1,Won 1,135,256,65,128
+39f349de-6463-4803-ad70-f1e0f144f5ed,Rams,Los Angeles,LA,6,10,0,324,354,37,-4,0,13,4,loss,3,Lost 3,136,256,41,96
