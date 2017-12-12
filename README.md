@@ -1,13 +1,15 @@
 # OperationAtlanta
 Hi Levi.
 
-Thus far I've just used the ProFootballAPI and SportRadar API to be able to access a list of games from 2009 onward and the standings from 2014-2016.
-
 The progression of the project is fairly simple:
 
 1. Who plays who: 
 
-  It turns out it's actually incredibly formulaic who plays who for each year. (See: https://operations.nfl.com/the-game/creating-the-nfl-schedule/), so the first step to be able to test any possible idea of ours, is to be able to automatically calculate who plays who using past games and standings, and simply plugging in a year to our main program. Even though the data was accessed with PHP calls, Java was the obvious choice for this for our ability to debug in IntelliJ. 
+  It turns out it's actually incredibly formulaic who plays who for each year. (See: https://operations.nfl.com/the-game/creating-the-nfl-schedule/), so the first step to be able to test any possible idea of ours, is to be able to automatically calculate who plays who using past games and standings, and simply plugging in a year to our main program.
+ 
+ Thus far I've just used the ProFootballAPI and SportRadar API to be able to access a list of games from 2009 onward and the standings from 2014-2016. I wrote the data that I got from those into games and standings folders respectively (in the form of a csv). Then, I put the data from each of those csvs into the Java equivalent of Python's Panda framework, that way we will be able to manipulate data from csv files incredibly easily. (http://cardillo.github.io/joinery/v1.8/api/reference/joinery/DataFrame.html)
+
+Even though the data was accessed with PHP calls, Java was the obvious choice for actually creating the list of eligible teams for our ability to debug in IntelliJ. 
   
 2. Pruning time: 
 
