@@ -12,9 +12,7 @@ public class Main {
     public static HashMap<String, ArrayList<String>> eligibles = new HashMap();
 
     /**
-     * Goal of this operation is to create a list of eligible, required and
-     * non-eligible games for each club. This can then be used to construct
-     * the schedule.
+     * 
      */
     public static void main(String... args) {
         int yearToSchedule = Integer.parseInt(args[0]);
