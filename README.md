@@ -3,7 +3,7 @@ Hi Levi.
 
 The progression of the project is fairly simple:
 
-1. Who plays who: 
+1. ✅ Who plays who: 
 
   It turns out it's actually incredibly formulaic who plays who for each year. (See: https://operations.nfl.com/the-game/creating-the-nfl-schedule/), so the first step to be able to test any possible idea of ours, is to be able to automatically calculate who plays who using past games and standings, and simply plugging in a year to our main program.
  
